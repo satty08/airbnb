@@ -13,8 +13,8 @@
 
 .card > img {
     object-fit: fill;
-    min-width: 300px;
-    min-height: 200px;
+    min-width: 250px;
+    max-height: 250px;
     width: 100%;
 }
 
